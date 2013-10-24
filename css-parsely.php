@@ -7,7 +7,6 @@
  * @version 0.5
  */
 
-
 function fetchCSS($file){
 
 	$html = file($file);
